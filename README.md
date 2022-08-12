@@ -32,4 +32,5 @@
  </p>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&section=footer)
