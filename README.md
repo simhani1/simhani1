@@ -38,6 +38,17 @@
 </div>
 </br>
 <div align="center">
+ <h2 align="center"> 💫 Activity 💫</h2>
+ 
+ |Organization|Activity|Date|
+ |:---:|:---:|:---:|
+ |University Makeus challenge 3기(소프트 스퀘어드)|서버 부파트장|2022.8 ~|
+ |라이징 캠프 7기(소프트 스퀘어드)|수료|2022.6 ~ 2022.8|
+ |ALCUK(가톨릭대 알고리즘 스터디 동아리)|동아리원|2021.12 ~|
+ 
+</div>
+</br>
+<div align="center">
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
  
