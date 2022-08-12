@@ -1,5 +1,5 @@
-### Jonghan Sim
-<a href="링크"><img src="https://img.shields.io/badge/Velog-1FC293?style=flat-square&logo=blog&logoColor=white"/></a>
+# Hello, I'm Jonghan Sim 😀
+<a href="https://velog.io/@simhani1"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 <!--
 **simhani1/simhani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
