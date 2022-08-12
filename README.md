@@ -15,7 +15,7 @@
 </div>
 </br>
 <div align="center">
- <h2>🛠 Tech Stack 🛠</h2>
+ <h2>📚 Tech Stack 📚</h2>
  <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
@@ -26,7 +26,7 @@
 </div>
 </br>
 <div align="center">
- <h2>🧰 Tools 🧰</h2>
+ <h2>🛠 Tools 🛠</h2>
  <p align="center">
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
