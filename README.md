@@ -51,7 +51,7 @@
  <h2 align="center">👀 Stats 👀</h2>
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhani1&layout=compact)](https://github.com/simhani1/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhani1&layout=compact)(https://github.com/simhani1/github-readme-stats)
  
 </div>
 
