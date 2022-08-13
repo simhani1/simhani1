@@ -46,13 +46,5 @@
   |ALCUK(가톨릭대학교 알고리즘 스터디)|동아리원|2021.12 ~|
  
 </div>
-</br>
-<div align="center">
- <h2 align="center">👀 Stats 👀</h2>
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true&hide=stars&bg_color=ffffff)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhani1&layout=compact)](https://github.com/simhani1/github-readme-stats)
-
-</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&section=footer)
