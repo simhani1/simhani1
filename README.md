@@ -50,9 +50,9 @@
 <div align="center">
  <h2 align="center">👀 Stats 👀</h2>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhani1&layout=compact)(https://github.com/simhani1/github-readme-stats)
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true&hide=stars&bg_color=ffffff)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simhani1&layout=compact)](https://github.com/simhani1/github-readme-stats)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&section=footer)
