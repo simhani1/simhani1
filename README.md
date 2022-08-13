@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Jonghan%20Sim&fontColor=32344c&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Hello!&fontColor=32344c&animation=twinkling)
 
 <div align="center">
  <h2>👨‍💻 About 👨‍💻</h2>
