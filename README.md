@@ -9,14 +9,13 @@
  </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhani1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=simhani1)](https://solved.ac/simhani1) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
 
 </div>
-</br>
 <div align="center">
- <h2>📚 Tech Stack 📚</h2>
+ <h3>📚 Tech Stack 📚</h3>
  <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
@@ -25,9 +24,8 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"/>
  </p>
 </div>
-</br>
 <div align="center">
- <h2>🛠 Tools 🛠</h2>
+ <h3>🛠 Tools 🛠</h3>
  <p align="center">
   <img src="https://img.shields.io/badge/aws-333664?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
@@ -39,7 +37,7 @@
 </div>
 </br>
 <div align="center">
- <h2 align="center"> 💫 Experience 💫</h2>
+ <h2 align="center">💫 Experience 💫</h2>
  
   |Organization|Activity|Date|
   |:---:|:---:|:---:|
@@ -50,8 +48,9 @@
 </div>
 </br>
 <div align="center">
+ <h2 align="center">✨ Git ✨</h2>
  
-
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
  
 </div>
 
