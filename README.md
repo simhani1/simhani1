@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Hello!👋&fontColor=32344c&animation=twinkling&rotate=8&fontAlign=75&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Hello!👋&fontColor=32344c&fontSize=60&animation=twinkling&rotate=8&fontAlign=75&fontAlignY=30)
 
 <div align="center">
  <h2>🧑🏻‍💻 About Me 🧑🏻‍💻</h2>
