@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Hello!&fontColor=32344c&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&text=Hello!👋&fontColor=32344c&animation=twinkling&rotate=8&fontAlign=75&fontAlignY=30)
 
 <div align="center">
- <h2>👨‍💻 About 👨‍💻</h2>
+ <h2>🧑🏻‍💻 About Me 🧑🏻‍💻</h2>
  <p>
   <a href="https://velog.io/@simhani1">
    <img src="https://velog-readme-stats-git-develop-eungyeole.vercel.app/api/badge?name=Tech%20Blog"/>
@@ -12,6 +12,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=simhani1)](https://solved.ac/simhani1) 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
+
 </div>
 </br>
 <div align="center">
@@ -50,7 +51,7 @@
 </br>
 <div align="center">
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=simhani1&theme=swift&show_icons=true)
+
  
 </div>
 
