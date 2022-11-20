@@ -48,5 +48,3 @@
   |ALCUK(가톨릭대학교 알고리즘 스터디)|동아리원|2021.12 ~ now|
  
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6&height=130&section=footer)
