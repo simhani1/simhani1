@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=130&text=About+Me)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=About+Me)
 
 <div align="center">
 
