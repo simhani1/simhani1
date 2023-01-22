@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=130)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=130&text=About+Me)
 
 <div align="center">
- <h2>About Me</h2>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhani1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
