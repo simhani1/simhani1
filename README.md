@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,22,24&text=Sim%20Jonghan&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Back-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&text=Sim%20Jonghan&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Back-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
