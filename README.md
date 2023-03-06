@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&text=About+Me)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=19,20,21,29&text=Sim%20Jonghan&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Back-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)
 
 <div align="center">
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhani1%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhani1%2Fhit-counter&count_bg=%238DBCDD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
 
 </div>
