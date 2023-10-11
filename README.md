@@ -16,4 +16,7 @@
   - 라이징 캠프 7기 Server 파트 수료 **[2022.6 ~ 2022.8]**
 - ALCUK(가톨릭대학교 알고리즘 스터디)
   - 스터디 활동 **[2021.12 ~ now]**
-  - 2022 ICPC 지역예선 참가
+
+### 🪪 Certificate
+- 정보처리기사
+- [Softeer HSAT ㅣevel3](https://softeer.ai/challenge/certification/intro.do)
