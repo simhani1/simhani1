@@ -19,4 +19,4 @@
 
 ### 🪪 Certificate
 - 정보처리기사
-- [Softeer HSAT ㅣevel3](https://softeer.ai/challenge/certification/intro.do)
+- [Softeer HSAT Level3](https://softeer.ai/challenge/certification/intro.do)
