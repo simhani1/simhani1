@@ -6,14 +6,7 @@
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring REST Docs-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=JUNIT5&logoColor=white">
 
 ### 🚀 Activity
-- 소프트 스퀘어드
-  - University Makeus Challenge 3기 Server 파트 수료 **[2022.8 ~ 2023.2]**
-  - 라이징 캠프 S-Mentorig
-    - Server 11기 온라인 멘토 **[2022.10 ~ 2022.12]**
-    - Server 9기 온라인 멘토 **[2022.8 ~ 2022.9]**
-  - 라이징 캠프 7기 Server 파트 수료 **[2022.6 ~ 2022.8]**
-- ALCUK(가톨릭대학교 알고리즘 스터디)
-  - 스터디 활동 **[2021.12 ~ now]**
-
-### 🪪 Certificate
-- 정보처리기사
+- Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ now]**
+- University MakeUs Challenge 3기 Server 파트 수료 **[2022.8 ~ 2023.2]**
+- 라이징 캠프 7기 Server 파트 수료 **[2022.6 ~ 2022.8]**
+- ALCUK(가톨릭대학교 알고리즘 스터디) **[2021.12 ~ now]**
