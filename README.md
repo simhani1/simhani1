@@ -7,6 +7,7 @@
 
 ### 🚀 Activity
 - Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ now]**
+- AWS Cloud Clubs 1기 **[2023.11 ~ now]**
 - University MakeUs Challenge 3기 Server 파트 수료 **[2022.8 ~ 2023.2]**
 - 라이징 캠프 7기 Server 파트 수료 **[2022.6 ~ 2022.8]**
 - ALCUK(가톨릭대학교 알고리즘 스터디) **[2021.12 ~ now]**
