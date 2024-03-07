@@ -3,7 +3,7 @@
 
 ### 🚀 Activity
 - SSAFY 11기 **[2024.1 ~ now]**
-- Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ now]**
+- Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ 2024.2]**
 - AWS Cloud Clubs 1기 **[2023.11 ~ 2023.12]**
 - University MakeUs Challenge 3기 Server 파트 수료 **[2022.8 ~ 2023.2]**
 - 라이징 캠프 7기 Server 파트 수료 **[2022.6 ~ 2022.8]**
