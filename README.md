@@ -2,7 +2,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
 
 ### 🚀 Activity
-- SSAFY 11기 **[2024.1 ~ now]**
+- SSAFY 11기 **[2024.1 ~ 2024.12]**
 - Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ 2024.2]**
 - AWS Cloud Clubs 1기 **[2023.11 ~ 2023.12]**
 - University MakeUs Challenge 3기 Server 파트 수료 **[2022.8 ~ 2023.2]**
