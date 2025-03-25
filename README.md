@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsimhani1%2Fhit-counter&count_bg=%238DBCDD&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=simhani1)](https://solved.ac/simhani1)
-
 ### 🚀 Activity
 - 삼성 청년 SW 아카데미 11기 **[2024.1 ~ 2024.12]**
 - Central MakeUs Challenge 14기 Server 파트 **[2023.11 ~ 2024.2]**
