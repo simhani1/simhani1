@@ -5,4 +5,4 @@
 - Central MakeUs Challenge 14기 Server 파트 (2023.11 ~ 2024.02)
 - 교내 AWS Cloud Clubs 1기 (2023.11 ~ 2023.12)
 - University MakeUs Challenge 3기 Server 파트 수료 (2022.08 ~ 2023.02)
-- 교내 알고리즘 동아리 ALCUK (2021.12 ~ 2023.12)
+- 교내 알고리즘 동아리 ALOOO (2021.12 ~ 2023.12)
